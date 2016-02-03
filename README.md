@@ -1,4 +1,4 @@
-UNHCR Middle East & north Africa
+UNHCR Egypt
 ======================
 
-Landing page for http::/data.unhcr.org/mena
+Landing page for http::/data.unhcr.org/egypt
